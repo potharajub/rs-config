@@ -1,0 +1,6 @@
+db:
+  username: INV-PROD
+  password: INV-PROD
+  url: INV-PROD
+  driverClassName: INV-PROD
+appFullName: Inventroy PROD
